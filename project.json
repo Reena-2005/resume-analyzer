@@ -1,0 +1,29 @@
+{
+  "name": "resume-analyzer",
+  "slug": "resume-analyzer",
+  "description": "New project",
+  "owner": "Reena-2005",
+  "gitUsername": "Reena-2005",
+  "status": "In Progress",
+  "dueDate": "2026-11-17",
+  "progress": 0,
+  "tasks": "0 / 0",
+  "taskList": [],
+  "members": [
+    "Reena-2005"
+  ],
+  "memberRoles": [
+    {
+      "email": "Reena-2005",
+      "username": "Reena-2005",
+      "role": "admin"
+    }
+  ],
+  "notes": [],
+  "deliverables": [],
+  "brief": "",
+  "createdAt": "2026-10-18 14:06:13",
+  "updatedAt": "2026-10-18 14:06:13",
+  "githubRepoUrl": "https://github.com/Reena-2005/resume-analyzer",
+  "workspacePath": "workspace/projects/resume-analyzer"
+}

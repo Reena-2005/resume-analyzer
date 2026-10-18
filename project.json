@@ -16,7 +16,8 @@
   "dueDate": "2026-11-17",
   "members": [
     "reena-2005",
-    "0"
+    "0",
+    "0_0tejaswini_d"
   ],
   "memberRoles": [
     {
@@ -27,6 +28,11 @@
     {
       "email": "0",
       "username": "0",
+      "role": "editor"
+    },
+    {
+      "email": "0_0tejaswini_d",
+      "username": "0_0tejaswini_d",
       "role": "editor"
     }
   ],
